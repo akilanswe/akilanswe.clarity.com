@@ -1,2 +1,2 @@
-# akilanswe.clarity.com
+# akilanswe.github.io
 Clarity design website
